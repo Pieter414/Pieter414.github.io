@@ -8,57 +8,39 @@ redirect_from:
 ---
 
 {% include base_path %}
+<p style="font-size: 2em; font-weight: bold;">Pieter Christy Yan Yudhistira / Curriculum Vitae</p>
+[pieterchristyan7@gmail.com](mailto:pieterchristyan7@gmail.com)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* B.S. in Computer Science, Brawijaya University, 2023 - 2027 (expected)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Head Coordinator Assistant Researcher**, Intelligent System Lab       Oct 2025 - Current
+* **Assistant Researcher**, Intelligent System Lab      Aug 2025 - Current
+* **Data Scientist & Analyst**, Basic Computing Community (BCC)      Apr 2024 - Current
+* Practicum Assistant, CIT61008 Data Structures and Algorithms      Aug 2024 - Dec 2024
+* Media Partner in Creative Media, Basic Computing Community (BCC)      Apr 2024 - Dec 2024
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Project & Research
+* Pengawasan Ruang Digital (PRD) Supervised Fine Tuning, AI Talent Brawijaya University with Komdigi Indonesia
+* Pengembangan Sistem Transkripsi Dan Ringkasan Otomatis Konsultasi Medis Daerah 3t Dengan Whisper-Prophetnet
+* Comparative Study of Loss Function Methods for Multigraph Fraud Detection Using Graph Neural Network
+* Optimizing Complement Naive Bayes For Imbalanced Multiclass Election Tweet Classification using a Balanced Class Approach
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Awards
+
+* Top 20 Finalist | Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komunikasi (Gemastik) 2025 Data Mining
+* Master of Data Analysis IV | Data Analysis Competition (DAC) 2024 Statistic Department Sepuluh Nopember Institute of Technology
+* Top 4 | FIT 2025 Competition Data Science by Information Technology Kristen Satya Wacana University
+* Top 1 out of 5 Team | Basic Computing Community Data Science Internal Competition 2025
+* Top 13th out of 91 Team | Hology 7.0: Data Mining by Faculty of Computer Science University of Brawijaya
+* Top 18th out of ~40 Team | Neurontara Data Clash 2025: Regression Rumble
+* Top 23th out of 425 Team | Statistika Ria dan Festival Sains Data (SATRIA DATA) 2024: Big Data Challenge
+* Top 1 out of 20 Brawijaya University Team | Statistika Ria dan Festival Sains Data (SATRIA DATA) 2024: Big Data Challenge
+* Top 29th out of 180 Team | Find-IT UGM 2024: Data Analysis Department of Electrical Engineering and Information Technology Gadjah Mada University
+
+## Grants and Funding
+
+* (2025) DIPA FILKOM 2025: Studi Komparatif Metode Loss Function untuk Deteksi Multigraph Fraud dengan Graph Neural Network.
