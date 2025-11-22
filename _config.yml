@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Pieter Christy Yan Yudhistira"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Intelligent System Laboratory Assistant and Computer Science Student at Brawijaya University."
   location         : "Malang, Indonesia"
   employer         : "Brawjijaya University"
   uri              : # URL
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "pieter-christy-yan-yudhistira"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
