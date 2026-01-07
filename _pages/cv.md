@@ -37,6 +37,7 @@ redirect_from:
 
 * Top 20 Finalist | Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komunikasi (Gemastik) 2025 Data Mining
 * Master of Data Analysis IV | Data Analysis Competition (DAC) 2024 Statistic Department Sepuluh Nopember Institute of Technology
+* Top 20 Finalist | Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komunikasi (GEMASTIK) 2025: Data Mining
 * Top 4 | FIT 2025 Competition Data Science by Information Technology Kristen Satya Wacana University
 * Top 1 out of 5 Team | Basic Computing Community Data Science Internal Competition 2025
 * Top 13th out of 91 Team | Hology 7.0: Data Mining by Faculty of Computer Science University of Brawijaya
