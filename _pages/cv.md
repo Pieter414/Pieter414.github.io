@@ -8,7 +8,12 @@ redirect_from:
 
 {% include base_path %}
 <p style="font-size: 2em; font-weight: bold;">Pieter Christy Yan Yudhistira / Curriculum Vitae</p>
-[pieterchristyan7@gmail.com](mailto:pieterchristyan7@gmail.com)
+
+## Link
+
+* [pieterchristyan7@gmail.com](mailto:pieterchristyan7@gmail.com)
+* [My CV in detail](https://drive.google.com/file/d/1_1xhif3sEh5qImmzlof4JjBKY36rYS9H/view?usp=drive_link)
+* [My Portfolio in detail](https://drive.google.com/file/d/17zsKkSxvVckWGslA7l_NA36JnEZNmDAP/view?usp=drive_link)
 
 ## Education
 
