@@ -1,0 +1,10 @@
+{% comment %}Lists entries from _data/projects.yml. Usage: {% include projects.html projects=site.data.projects %}{% endcomment %}
+{% for p in include.projects %}
+<div class="list__item">
+<article class="archive__item">
+<h3 class="archive__item-title">{{ p.title }}</h3>
+<p class="page__meta">{{ p.date }}{% if p.date and p.tools %} · {% endif %}{{ p.tools }}</p>
+<p class="archive__item-excerpt">{{ p.blurb | markdownify | remove: '<p>' | remove: '</p>' }}{% for l in p.links %} <a href="{{ l.url }}">[{{ l.name }}]</a>{% endfor %}</p>
+</article>
+</div>
+{% endfor %}

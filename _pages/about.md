@@ -6,16 +6,31 @@ redirect_from:
   - /about.html
 ---
 
-## Pieter Christy Yan Yudhistira
+I'm a final-year Computer Science student at [Brawijaya University](https://ub.ac.id) and Lead Coordinator of the research assistants at the [Intelligent System Laboratory](https://labsc.ub.ac.id/). Most of my work sits where machine learning meets Indonesian language and healthcare: checking whether medical vision-language models still hold up when you ask them in Bahasa Indonesia, instruction-tuning Indonesian LLMs, and graph neural networks for fraud detection. I also work part-time as an AI engineer at RAINS, building agentic knowledge-management tools.
 
-I am a Computer Science student at [Brawijaya University](https://ub.ac.id), currently in my third year. I serve as the Head Coordinator of the [Intelligent System Laboratory](https://labsc.ub.ac.id/) Assistant Researchers at the Faculty of Computer Science. Mostly surviving on vibes, managed to maintain perfect GPA for four consecutive semesters tho... somehow.
+Outside the lab I'm a data scientist at the [Basic Computing Community (BCC)](https://www.instagram.com/bccfilkom/) and a regular at data science competitions (Gemastik 2025 finalist).
 
-I’m broadly interested in artificial intelligence and machine learning. I don’t stick to a single niche tbh. Computer Vision, NLP, LLM, RAG, GNNs, and anything else that catches my curiosity are all fair game.
+**I'm open to research internships and data/AI internships.** Feel free to reach out by [email](mailto:pieterchristyan7@gmail.com).
 
-Most of my university life revolves around classes and lab work, usually focused on completing course projects rather than doing actual research. I am also a Data Scientist and Analyst in the [Basic Computing Community (BCC)](https://www.instagram.com/bccfilkom/), knowned for being overly analytical and finding interesting (but usually useless) insight on piles of information.
+## Research interests
 
-I’ve participated in several machine learning and data science competitions. My proudest achievement so far is becoming a finalist in the Data Mining category at Gemastik 2025, 4th place on FIT Competition 2025 and DAC ITS 2024. Yeah, never the winner but always between the angels.
+- Multilingual robustness of medical vision-language models
+- Instruction tuning and alignment of Indonesian LLMs
+- Graph neural networks
+- Applied computer vision
 
-### Research
+## News
 
-Currently trying to have my research published, wish me luck. But had research about Graph Neural Network on fraud detection, leaf disease detection on actual coffee leafs from UB forests, medical chatbot using Langgraph, and several competition related research.
+- **Sep 2026**: Our training-free subtitle translation system placed 3rd (Indonesian) and 5th (English) at WMT26.
+- **Sep 2026**: Teaching assistant for Neural Networks (CIF65318).
+- **Jul 2026**: Joined RAINS as an AI & full-stack engineer.
+- **May 2026**: [*Does Language Shift Break Medical Vision-Language Models?*](https://arxiv.org/abs/2606.03693) accepted at the CVPR 2026 MMFM-BIOMED Workshop.
+- **Dec 2025**: Released [KomdigiUB-8B-Instruct-PRD2](https://huggingface.co/aitfindonesia/KomdigiUB-8B-Instruct-PRD2) on Hugging Face.
+- **Oct 2025**: Became Lead Coordinator of research assistants at the Intelligent System Laboratory.
+
+## Selected projects
+
+{% assign selected = site.data.projects | where: "selected", true %}
+{% include projects.html projects=selected %}
+
+[All projects →](/projects/) · [Publications on Google Scholar →](https://scholar.google.com/citations?user=oSXyhJEAAAAJ)

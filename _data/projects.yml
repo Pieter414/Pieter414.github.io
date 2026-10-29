@@ -1,0 +1,74 @@
+# One entry per project, shown in this order. `selected: true` also shows it on the home page.
+# Fields: title, date, tools, blurb (Markdown), links (name/url), selected.
+
+- title: "Does Language Shift Break Medical Vision-Language Models? An Indonesian Radiology VQA Case Study"
+  date: May 2026
+  tools: PyTorch, Transformers, vLLM
+  blurb: >-
+    Built an Indonesian version of VQA-RAD and benchmarked general, multilingual and medical VLMs on English vs. Bahasa Indonesia prompts.
+    Accuracy drops 8–25% in Indonesian, with systematic errors such as yes/no flips, left/right mix-ups and answers in the wrong language.
+    Accepted at the CVPR 2026 MMFM-BIOMED Workshop.
+  links:
+    - name: paper
+      url: https://arxiv.org/abs/2606.03693
+  selected: true
+
+- title: "~RUPIAH at WMT26: Training-Free Context-Aware Subtitle Translation with QE Selection"
+  date: Sep 2026
+  tools: HyMT-7B, LLM
+  blurb: >-
+    A training-free subtitle translation pipeline that adds dialogue history and terminology to the prompt, generates diverse candidates,
+    filters off-target outputs and reranks with quality estimation. Placed 3rd (Indonesian) and 5th (English).
+  selected: true
+
+- title: "KomdigiUB-8B-Instruct-PRD2"
+  date: Dec 2025
+  tools: PyTorch, Hugging Face, PEFT, LoRA
+  blurb: >-
+    Instruction-tuned the KomdigiUB-8B-Base Indonesian LLM for Indonesian legal compliance and digital-risk monitoring (+2% on IFEval),
+    using synthetic instructions generated with Gemini and filtered by an LLM-as-a-judge. Built with the AI Talent Factory, Brawijaya University × Komdigi.
+  links:
+    - name: model
+      url: https://huggingface.co/aitfindonesia/KomdigiUB-8B-Instruct-PRD2
+  selected: true
+
+- title: "Empirical Comparative Study of Loss Functions for Graph Neural Networks in Fraud Detection"
+  date: Sep 2026
+  tools: PyTorch, DGL, NetworkX, Weights & Biases
+  blurb: >-
+    Lab research funded by a DIPA FILKOM 2025 grant: 7 loss functions compared across 3 multigraph fraud-detection benchmarks.
+  selected: true
+
+- title: "AI-Generated Video Detection"
+  date: May 2026
+  blurb: >-
+    Evaluated training-free detectors for AI-generated video, combining spatial-temporal likelihoods, second-order features,
+    forensic augmentation and face-consistency matching.
+
+- title: "Autoimmune Medical Graph-RAG on WhatsApp"
+  tools: Graph-RAG
+  blurb: >-
+    A WhatsApp assistant backed by a medical Graph-RAG pipeline with query rewriting and context-based database routing.
+
+- title: "Crop Disease and Nutrient-Deficiency Recognition"
+  tools: MobileNetV2
+  blurb: >-
+    Multi-head MobileNetV2 that recognizes crop diseases and nutrient deficiencies from phone photos (~90% accuracy), built at the Basic Computing Community.
+
+- title: "Automatic Transcription and Summarization of Medical Consultations in Remote (3T) Regions"
+  date: Aug 2025
+  tools: Whisper, ProphetNet, Streamlit
+  blurb: >-
+    Transcribes doctor–patient consultations with Whisper and summarizes them with ProphetNet to cut clinical paperwork.
+  links:
+    - name: paper
+      url: https://drive.google.com/file/d/1hM34OicxSIgtIiYdKoQ34YQLIftkxu6P/view?usp=drive_link
+
+- title: "Complement Naive Bayes for Imbalanced Election Tweet Classification"
+  date: Dec 2024
+  tools: scikit-learn, NLTK, Sastrawi, Optuna
+  blurb: >-
+    Topic classification of tweets about the 2024 Indonesian election, handling class imbalance with a balanced-class approach and Optuna tuning.
+  links:
+    - name: code
+      url: https://github.com/Pieter414/election-topic-classification

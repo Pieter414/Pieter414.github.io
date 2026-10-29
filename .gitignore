@@ -18,3 +18,8 @@ package-lock.json
 
 # Ignore folders related to IDEs
 .vscode/
+
+# CV sources stay local; the site links the PDF on Drive
+*.docx
+
+*CLAUDE.md
