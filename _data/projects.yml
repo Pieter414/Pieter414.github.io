@@ -19,6 +19,9 @@
   blurb: >-
     A training-free subtitle translation pipeline that adds dialogue history and terminology to the prompt, generates diverse candidates,
     filters off-target outputs and reranks with quality estimation. Placed 3rd (Indonesian) and 5th (English).
+  links:
+    - name: paper
+      url: https://www2.statmt.org/wmt26/pdf/2026.wmt-1.205.pdf
   selected: true
 
 - title: "KomdigiUB-8B-Instruct-PRD2"
